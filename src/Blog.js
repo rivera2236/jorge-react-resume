@@ -39,7 +39,7 @@ const sections = [
 const mainFeaturedPost = {
   title: "Welcom to Jorge's React Resume Website!",
   description:
-    "Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.",
+    "My name is Jorge and I love my wife Rebecca and we live in a yellow house. I enjoy long walks under the hot sun, not really. I am very interested in a tech position so give me a job.",
   image: 'https://source.unsplash.com/random',
   imgText: 'main image description',
   linkText: 'Continue reading…',
